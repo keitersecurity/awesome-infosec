@@ -16,6 +16,7 @@ Want to contribute? Check the [contribution guidelines](CONTRIBUTING.md).
 - [Antivirus](#antivirus)
 - [Audit](#audit)
 - [Content filtering](#content-filtering)
+- [Development](#development)
 - [Education](#education)
 - [Email](#email)
 - [Encryption](#encryption)
@@ -41,14 +42,14 @@ Want to contribute? Check the [contribution guidelines](CONTRIBUTING.md).
 
 ## Ad blocking
 
-**[Ad Guard](https://adguard.com/en/adguard-dns/overview.html)** - Tools
+**[Ad Guard](https://adguard.com/en/adguard-dns/overview.html)**undefined - Tools
 
 Block ads on your entire home network, cell phones included, by configuring one setting in your router.  Specifically, by updating the custom DNS settings, which takes less than 5 minutes.
 
  - Free ad blocking - Premium blocking of adult content - No email or registration required
 
 
-**[MPVS Host File](http://winhelp2002.mvps.org/hosts.htm)** - Tools
+**[MPVS Host File](http://winhelp2002.mvps.org/hosts.htm)**undefined - Tools
 
 Block ads on your PC simply by replacing your HOST file.
 
@@ -65,14 +66,14 @@ Wide-spectrum web-filter - generally used as an effective ad blocker.  The link 
 
 ## Antivirus
 
-**[AVG AntiVirus](http://www.avg.com/us-en/free-antivirus-download)** - Tools
+**[AVG AntiVirus](http://www.avg.com/us-en/free-antivirus-download)**undefined - Tools
 
 This is antivirus software which includes real-time security updates, scans for malware and performance issues, and more
 
  - Free - No email or registration required
 
 
-**[Avast](https://www.avast.com/en-us/free-antivirus-download)** - Tools
+**[Avast](https://www.avast.com/en-us/free-antivirus-download)**undefined - Tools
 
 This is antivirus software which scans for performance issues and analyzes unknown files in real time, among other things.
 
@@ -106,11 +107,28 @@ Protect every device in your home by updating one setting in your home router. S
  - Two free plans - one premium plan - Registration required
 
 
-**[uBlock Origin](https://github.com/gorhill/uBlock#installation)** -  - Raymond Hill - Tools
+**[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Raymond Hill - Tools
 
 Wide-spectrum web-filter - generally used as an effective ad blocker.  The link is the author's GitHub repository.  However, it also contains links to plugins for popular browsers.
 
  - Free - No email or registration required
+
+
+
+## Development
+
+**[Security Checklist for Developers](https://github.com/FallibleInc/security-guide-for-developers)** - Fallible, Inc. - Tools
+
+Developers have a lot of security responsibilities when writing applications.  This guide helps remind developers of some of the key things they must consider.
+
+ - Free - No email or registration required.
+
+
+**[zxcvbn](https://github.com/dropbox/zxcvbn)** - Dropbox - Tools
+
+Implemented in over a dozen programming languages, zxcvbn is a password strength estimator inspired by password crackers. Through pattern matching and conservative estimation, it recognizes and weighs 30k common passwords, common names and surnames according to US census data, popular English words from Wikipedia and US television and movies, and other common patterns like dates, repeats (aaa), sequences (abcd), keyboard patterns (qwertyuiop), and l33t speak.
+
+ - Free - No email or registration required for desktop app. Login with Github for online version.
 
 
 
@@ -164,7 +182,7 @@ This is firewall software that manages and monitors all incoming and outgoing tr
 
 ## Encryption
 
-**[Cypherix](http://www.cypherix.com/)** - Tools
+**[Cypherix](http://www.cypherix.com/)**undefined - Tools
 
 This is encryption software that helps protect sensitive data on any Windows PC, Desktop, Laptop, Hard Disk or Removable Drive
 
@@ -202,14 +220,14 @@ Veracrypt is the replacement to Truecrypt. An encryption tool to encrypt your ha
 
 ## Firewall
 
-**[Sophos UTM Home Edition](https://www.sophos.com/en-us/products/free-tools/sophos-utm-home-edition.aspx)** -  - Sophos - Tools
+**[Sophos UTM Home Edition](https://www.sophos.com/en-us/products/free-tools/sophos-utm-home-edition.aspx)** - Sophos - Tools
 
 Free home use firewall is a fully equipped software version of the Sophos UTM firewall, available at no cost for home users. It features full Network, Web, Mail and Web Application Security with VPN functionality and protects up to 50 IP addresses.
 
  - Free - Name and email required
 
 
-**[ZoneAlarm](https://www.zonealarm.com/software/free-firewall/)** -  - Check Point Software Technologies - Tools
+**[ZoneAlarm](https://www.zonealarm.com/software/free-firewall/)** - Check Point Software Technologies - Tools
 
 This is firewall software that manages and monitors all incoming and outgoing traffic and shields the user from hackers, malware, and other online threats that put privacy at risk
 
@@ -219,7 +237,7 @@ This is firewall software that manages and monitors all incoming and outgoing tr
 
 ## Governance
 
-**[AICPA Cybersecurity Resources](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/pages/cyber-security-resource-center.aspx)** -  - AICPA - Guides
+**[AICPA Cybersecurity Resources](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/pages/cyber-security-resource-center.aspx)** - AICPA - Guides
 
 A resource for CPAs and businesses seeking information about cybersecurity audits and risk management
 
@@ -261,17 +279,24 @@ Nearly 500 pages of security and privacy controls, as well as a framework for id
  - Free - No email or registration required
 
 
+**[Threat Dragon](https://threatdragon.org/)** - Open Web Application Security Project - Tools
+
+Threat Dragon is a free, open-source threat modeling tool from OWASP. It can be used as a standalone desktop app for Windows and MacOS (Linux coming soon) or as a web application.
+
+ - Free - No email or registration required for desktop app. Login with Github for online version
+
+
 
 ## Guides
 
-**[CIS Critical Security Controls for Cyber Defense](https://www.cisecurity.org/critical-controls/documents/CSC-MASTER-VER61-FINAL.pdf)** -  - Center for Internet Security - Guides
+**[CIS Critical Security Controls for Cyber Defense](https://www.cisecurity.org/critical-controls/documents/CSC-MASTER-VER61-FINAL.pdf)** - Center for Internet Security - Guides
 
 Sometimes known as the SANS 20, this highly respected guide provides 20 cyber defense areas that most companies should have, and every company should be aware of.
 
  - Free - No email or registration required
 
 
-**[Cyber Security Planning Guide](https://www.fcc.gov/cyberplanner)** -  - Federal Communications Commission - Guides
+**[Cyber Security Planning Guide](https://www.fcc.gov/cyberplanner)** - Federal Communications Commission - Guides
 
 The tool is designed for businesses that lack the resources to hire dedicated staff to protect their business, information and customers from cyber threats. Serves as a good starting point for organizations looking 
 
@@ -285,21 +310,28 @@ The FBI's IC3 published a guide that describes just about every type of online s
  - Free - No email or registration required
 
 
-**[PagerDuty Incident Response Documentation](https://response.pagerduty.com/)** -  - PagerDuty - Guides
+**[PagerDuty Incident Response Documentation](https://response.pagerduty.com/)** - PagerDuty - Guides
 
 This site documents parts of the PagerDuty Incident Response process. It is a cut-down version of their internal documentation, used at PagerDuty for any major incidents, and to prepare new employees for on-call responsibilities. It provides information not only on preparing for an incident, but also what to do during and after.
 
  - Free - No email or registration required
 
 
-**[Security and Privacy Controls for Federal Information Systems and Organizations](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf)** -  - National Institute of Standards and Technology - Guides
+**[Security Checklist for Developers](https://github.com/FallibleInc/security-guide-for-developers)** - Fallible, Inc. - Tools
+
+Developers have a lot of security responsibilities when writing applications.  This guide helps remind developers of some of the key things they must consider.
+
+ - Free - No email or registration required.
+
+
+**[Security and Privacy Controls for Federal Information Systems and Organizations](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf)** - National Institute of Standards and Technology - Guides
 
 Nearly 500 pages of security and privacy controls, as well as a framework for identifying which controls are necessary from a diverse set of threats including hostile cyber attacks, natural disasters, structural failures, and human errors.
 
  - Free - No email or registration required
 
 
-**[TurnOn2FA](https://www.turnon2fa.com/)** - Guides
+**[TurnOn2FA](https://www.turnon2fa.com/)**undefined - Guides
 
 This is a website that provides explanations and brings awareness to the benefits of two factor authentication. Two factor authentication prevents a stolen password from resulting in an account breach.
 
@@ -309,21 +341,21 @@ This is a website that provides explanations and brings awareness to the benefit
 
 ## Home security
 
-**[AVG AntiVirus](http://www.avg.com/us-en/free-antivirus-download)** - Tools
+**[AVG AntiVirus](http://www.avg.com/us-en/free-antivirus-download)**undefined - Tools
 
 This is antivirus software which includes real-time security updates, scans for malware and performance issues, and more
 
  - Free - No email or registration required
 
 
-**[Ad Guard](https://adguard.com/en/adguard-dns/overview.html)** - Tools
+**[Ad Guard](https://adguard.com/en/adguard-dns/overview.html)**undefined - Tools
 
 Block ads on your entire home network, cell phones included, by configuring one setting in your router.  Specifically, by updating the custom DNS settings, which takes less than 5 minutes.
 
  - Free ad blocking - Premium blocking of adult content - No email or registration required
 
 
-**[Avast](https://www.avast.com/en-us/free-antivirus-download)** - Tools
+**[Avast](https://www.avast.com/en-us/free-antivirus-download)**undefined - Tools
 
 This is antivirus software which scans for performance issues and analyzes unknown files in real time, among other things.
 
@@ -337,7 +369,7 @@ This is a website that has aggregated various decrypting tools
  - Free - No email or registration required
 
 
-**[Dashlane](https://www.dashlane.com/)** - Tools
+**[Dashlane](https://www.dashlane.com/)**undefined - Tools
 
 This is a website that manages passwords for the user
 
@@ -351,7 +383,7 @@ This is software designed to anticipate common actions and techniques used by ha
  - Free - No email or registration required
 
 
-**[Home Internet Security](https://www.opendns.com/home-internet-security/)** -  - Open DNS - Tools
+**[Home Internet Security](https://www.opendns.com/home-internet-security/)** - Open DNS - Tools
 
 Protect every device in your home by updating one setting in your home router. Specifically, by updating the custom DNS settings, which takes less than 5 minutes.
 
@@ -365,14 +397,14 @@ Most users no longer need Java installed on their computer.  Java creates an unn
  - Free - No email or registration required
 
 
-**[LastPass](https://www.lastpass.com/)** - Tools
+**[LastPass](https://www.lastpass.com/)**undefined - Tools
 
 A suite of apps and browser extensions to allow for easy password management.
 
  - Free with premium features available - No email or registration required
 
 
-**[MPVS Host File](http://winhelp2002.mvps.org/hosts.htm)** - Tools
+**[MPVS Host File](http://winhelp2002.mvps.org/hosts.htm)**undefined - Tools
 
 Block ads on your PC simply by replacing your HOST file.
 
@@ -386,7 +418,7 @@ McAfee has compiled a list of tools useful to users, such as anti-malware, asses
  - Free - No email or registration required
 
 
-**[No More Ransom!](https://www.nomoreransom.org/decryption-tools.html)** - Tools
+**[No More Ransom!](https://www.nomoreransom.org/decryption-tools.html)**undefined - Tools
 
 This is a website that has aggregated various decrypting software from a variety of vendors.
 
@@ -407,35 +439,35 @@ Many viruses can be contracted through surfing the web with outdated plugins. Ch
  - Free - No email or registration required
 
 
-**[Sophos UTM Home Edition](https://www.sophos.com/en-us/products/free-tools/sophos-utm-home-edition.aspx)** -  -  - Sophos - Tools
+**[Sophos UTM Home Edition](https://www.sophos.com/en-us/products/free-tools/sophos-utm-home-edition.aspx)** - Sophos - Tools
 
 Free home use firewall is a fully equipped software version of the Sophos UTM firewall, available at no cost for home users. It features full Network, Web, Mail and Web Application Security with VPN functionality and protects up to 50 IP addresses.
 
  - Free - Name and email required
 
 
-**[Two Factor Auth List](https://twofactorauth.org/)** -  - Josh Davis - Guides
+**[Two Factor Auth List](https://twofactorauth.org/)** - Josh Davis - Guides
 
 A list of websites and web applications and whether or not they support two factor authentication. Check with this list before signing up for your next bank/email host/etc. Two factor authentication prevents a stolen password from compromising an account.
 
  - Free - No email or registration required
 
 
-**[Two Factor Guides](https://www.turnon2fa.com/tutorials/)** -  - TeleSign - Guides
+**[Two Factor Guides](https://www.turnon2fa.com/tutorials/)** - TeleSign - Guides
 
 A collection of guides to enable two factor authentication on popular websites and apps. Two factor authentication prevents a stolen password from compromising an account.
 
  - Free - No email or registration required
 
 
-**[ZoneAlarm](https://www.zonealarm.com/software/free-firewall/)** -  -  - Check Point Software Technologies - Tools
+**[ZoneAlarm](https://www.zonealarm.com/software/free-firewall/)** - Check Point Software Technologies - Tools
 
 This is firewall software that manages and monitors all incoming and outgoing traffic and shields the user from hackers, malware, and other online threats that put privacy at risk
 
  - Free - No email or registration required
 
 
-**[uBlock Origin](https://github.com/gorhill/uBlock#installation)** -  -  - Raymond Hill - Tools
+**[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Raymond Hill - Tools
 
 Wide-spectrum web-filter - generally used as an effective ad blocker.  The link is the author's GitHub repository.  However, it also contains links to plugins for popular browsers.
 
@@ -452,7 +484,7 @@ Outlines the six phases of the incident handling process.  This reference provid
  - Free - No email or registration required
 
 
-**[PagerDuty Incident Response Documentation](https://response.pagerduty.com/)** -  -  - PagerDuty - Guides
+**[PagerDuty Incident Response Documentation](https://response.pagerduty.com/)** - PagerDuty - Guides
 
 This site documents parts of the PagerDuty Incident Response process. It is a cut-down version of their internal documentation, used at PagerDuty for any major incidents, and to prepare new employees for on-call responsibilities. It provides information not only on preparing for an incident, but also what to do during and after.
 
@@ -462,14 +494,14 @@ This site documents parts of the PagerDuty Incident Response process. It is a cu
 
 ## Intrusion detection and prevention
 
-**[EMET](https://www.microsoft.com/en-us/download/details.aspx?id=50766/)** -  - Microsoft - Tools
+**[EMET](https://www.microsoft.com/en-us/download/details.aspx?id=50766/)** - Microsoft - Tools
 
 This is software designed to anticipate common actions and techniques used by hackers and mitigate them
 
  - Free - No email or registration required
 
 
-**[Home Internet Security](https://www.opendns.com/home-internet-security/)** -  -  - Open DNS - Tools
+**[Home Internet Security](https://www.opendns.com/home-internet-security/)** - Open DNS - Tools
 
 Protect every device in your home by updating one setting in your home router. Specifically, by updating the custom DNS settings, which takes less than 5 minutes.
 
@@ -483,14 +515,14 @@ Security Onion is a Linux distro for intrusion detection, network security monit
  - Free - No email or registration required
 
 
-**[Sophos UTM Home Edition](https://www.sophos.com/en-us/products/free-tools/sophos-utm-home-edition.aspx)** -  -  -  - Sophos - Tools
+**[Sophos UTM Home Edition](https://www.sophos.com/en-us/products/free-tools/sophos-utm-home-edition.aspx)** - Sophos - Tools
 
 Free home use firewall is a fully equipped software version of the Sophos UTM firewall, available at no cost for home users. It features full Network, Web, Mail and Web Application Security with VPN functionality and protects up to 50 IP addresses.
 
  - Free - Name and email required
 
 
-**[ZoneAlarm](https://www.zonealarm.com/software/free-firewall/)** -  -  -  - Check Point Software Technologies - Tools
+**[ZoneAlarm](https://www.zonealarm.com/software/free-firewall/)** - Check Point Software Technologies - Tools
 
 This is firewall software that manages and monitors all incoming and outgoing traffic and shields the user from hackers, malware, and other online threats that put privacy at risk
 
@@ -538,6 +570,13 @@ Threat news room, giving you news, opinion, advice and research on computer secu
  - Free - No email or registration required
 
 
+**[Schneier on Security](https://www.schneier.com)** - Bruce Schneier - News
+
+Bruce Schneier is an internationally renowned security technologist, called a "security guru" by The Economist. He is the author of 13 books--including Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World--as well as hundreds of articles, essays, and academic papers. His influential newsletter "Crypto-Gram" and his blog "Schneier on Security" are read by over 250,000 people.
+
+ - Free - No email or registration required for blog.  Email required for email based newsletter.
+
+
 **[Troy Hunt](https://www.troyhunt.com)** - Troy Hunt - News
 
 One of the most commonsense and easy to read security writers around.  Troy writes about security news of the day with a focus on breaches.
@@ -548,7 +587,7 @@ One of the most commonsense and easy to read security writers around.  Troy writ
 
 ## Newsletters
 
-**[Inside Security](https://inside.com/security)** -  - David Strom - Inside.com - News
+**[Inside Security](https://inside.com/security)** - David Strom - Inside.com - News
 
 Twice weekly email newsletter providing an in-depth look at all the most interesting cybersecurity news, complete with analysis and perspective you need to know to stay informed.
 
@@ -562,21 +601,35 @@ Free monthly security awareness training newsletter that security professionals 
  - Free - No email or registration required
 
 
+**[Schneier on Security](https://www.schneier.com)** - Bruce Schneier - News
+
+Bruce Schneier is an internationally renowned security technologist, called a "security guru" by The Economist. He is the author of 13 books--including Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World--as well as hundreds of articles, essays, and academic papers. His influential newsletter "Crypto-Gram" and his blog "Schneier on Security" are read by over 250,000 people.
+
+ - Free - No email or registration required for blog.  Email required for email based newsletter.
+
+
 
 ## Passwords
 
-**[Dashlane](https://www.dashlane.com/)** - Tools
+**[Dashlane](https://www.dashlane.com/)**undefined - Tools
 
 This is a website that manages passwords for the user
 
  - Free with premium features available - No email or registration required
 
 
-**[LastPass](https://www.lastpass.com/)** - Tools
+**[LastPass](https://www.lastpass.com/)**undefined - Tools
 
 A suite of apps and browser extensions to allow for easy password management.
 
  - Free with premium features available - No email or registration required
+
+
+**[zxcvbn](https://github.com/dropbox/zxcvbn)** - Dropbox - Tools
+
+Implemented in over a dozen programming languages, zxcvbn is a password strength estimator inspired by password crackers. Through pattern matching and conservative estimation, it recognizes and weighs 30k common passwords, common names and surnames according to US census data, popular English words from Wikipedia and US television and movies, and other common patterns like dates, repeats (aaa), sequences (abcd), keyboard patterns (qwertyuiop), and l33t speak.
+
+ - Free - No email or registration required for desktop app. Login with Github for online version.
 
 
 
@@ -610,14 +663,14 @@ A list of tools included in Kali Linux maintained by Offensive Security.
  - Free - No email or registration required
 
 
-**[OpenVAS Vulnerability Scanner](http://www.openvas.org/)** - Tools
+**[OpenVAS Vulnerability Scanner](http://www.openvas.org/)**undefined - Tools
 
 OpenVAS is an open source network vulnerability scanner. Similar to products like Nessus or Nexpose, but free.
 
  - Free - No email or registration required
 
 
-**[Sectools.org Top 125 Security Tools](http://sectools.org/)** - Guides
+**[Sectools.org Top 125 Security Tools](http://sectools.org/)**undefined - Guides
 
 Sectools.org has an amazing collection of some of the most popular security tools with a ranking of popularity. Wireshark, JTR, Kismet, if it's popular, it's probably listed here.
 
@@ -634,14 +687,14 @@ Web Application Attack and Audit Framework. It is a framework to help you secure
 
 ## Phishing
 
-**[Go Phish](https://getgophish.com/)** - Tools
+**[Go Phish](https://getgophish.com/)**undefined - Tools
 
 An open source phishing applications. Use it to test your company's resilience to phishing attacks.
 
  - Free - No email or registration required
 
 
-**[Have I Been Pwned](https://haveibeenpwned.com/)** -  - Troy Hunt - Tools
+**[Have I Been Pwned](https://haveibeenpwned.com/)** - Troy Hunt - Tools
 
 Check if you have an account that has been compromised in a data breach.  Individual and domain notifications available.  An API available is available for developers.
 
@@ -651,14 +704,14 @@ Check if you have an account that has been compromised in a data breach.  Indivi
 
 ## Privacy
 
-**[Cypherix](http://www.cypherix.com/)** - Tools
+**[Cypherix](http://www.cypherix.com/)**undefined - Tools
 
 This is encryption software that helps protect sensitive data on any Windows PC, Desktop, Laptop, Hard Disk or Removable Drive
 
  - Free - No email or registration required
 
 
-**[Duckduckgo Search Engine](https://duckduckgo.com/)** - Tools
+**[Duckduckgo Search Engine](https://duckduckgo.com/)**undefined - Tools
 
 A search engine that doesn't track you.
 
@@ -693,7 +746,7 @@ Created by the Electronic Frontier Foundation, this plugin tries to force websit
  - Free - No email or registration required
 
 
-**[NoScript Firefox Plugin](https://addons.mozilla.org/en-US/firefox/addon/noscript/)** - Tools
+**[NoScript Firefox Plugin](https://addons.mozilla.org/en-US/firefox/addon/noscript/)**undefined - Tools
 
 Block scripts on websites by default. This does a lot to protect against web-based viruses and improves privacy.
 
@@ -721,7 +774,7 @@ Browse the web with enhanced anonymity.  The Tor browser can also be used to acc
  - Free - No email or registration required
 
 
-**[uBlock Origin](https://github.com/gorhill/uBlock#installation)** -  -  -  - Raymond Hill - Tools
+**[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Raymond Hill - Tools
 
 Wide-spectrum web-filter - generally used as an effective ad blocker.  The link is the author's GitHub repository.  However, it also contains links to plugins for popular browsers.
 
@@ -731,7 +784,7 @@ Wide-spectrum web-filter - generally used as an effective ad blocker.  The link 
 
 ## Ransomware
 
-**[Avast Ransomware Decryption Tools](https://www.avast.com/ransomware-decryption-tools/)** -  - Avast - Tools
+**[Avast Ransomware Decryption Tools](https://www.avast.com/ransomware-decryption-tools/)** - Avast - Tools
 
 This is a website that has aggregated various decrypting tools
 
@@ -745,7 +798,7 @@ Find the latest decryptors, ransomware removal tools, and information on ransomw
  - Free  - No email or registration required
 
 
-**[Java Uninstaller](https://java.com/en/download/uninstalltool.jsp)** -  - Oracle - Tools
+**[Java Uninstaller](https://java.com/en/download/uninstalltool.jsp)** - Oracle - Tools
 
 Most users no longer need Java installed on their computer.  Java creates an unnecessary attack surface. Unless absolutely necessary, it should be removed from your computer. Do this easily with the Java removal tool.
 
@@ -759,21 +812,21 @@ Help mitigate zero-day viruses that antivirus can't stop by implementing several
  - Free  - No email or registration required
 
 
-**[No More Ransom!](https://www.nomoreransom.org/decryption-tools.html)** - Tools
+**[No More Ransom!](https://www.nomoreransom.org/decryption-tools.html)**undefined - Tools
 
 This is a website that has aggregated various decrypting software from a variety of vendors.
 
  - Free - No email or registration required
 
 
-**[No Ransom](https://noransom.kaspersky.com/)** -  - Kaspersky - Tools
+**[No Ransom](https://noransom.kaspersky.com/)** - Kaspersky - Tools
 
 This is a ransomware decryptor, which can be used if your computer is affected with ransomware
 
  - Free - No email or registration required
 
 
-**[Online Plugin Checker](https://www.mozilla.org/en-US/plugincheck/)** -  - Mozilla - Tools
+**[Online Plugin Checker](https://www.mozilla.org/en-US/plugincheck/)** - Mozilla - Tools
 
 Many viruses can be contracted through surfing the web with outdated plugins. Check your Firefox plugins for missing updates free.
 
@@ -783,14 +836,14 @@ Many viruses can be contracted through surfing the web with outdated plugins. Ch
 
 ## Security awareness
 
-**[Go Phish](https://getgophish.com/)** - Tools
+**[Go Phish](https://getgophish.com/)**undefined - Tools
 
 An open source phishing applications. Use it to test your company's resilience to phishing attacks.
 
  - Free - No email or registration required
 
 
-**[OUCH! Security Awareness Newsletter](http://securingthehuman.sans.org/resources/newsletters/ouch)** -  - SANS Institute - Guides
+**[OUCH! Security Awareness Newsletter](http://securingthehuman.sans.org/resources/newsletters/ouch)** - SANS Institute - Guides
 
 Free monthly security awareness training newsletter that security professionals can send to end users.  Available in PDF format.
 
@@ -807,7 +860,7 @@ Security awareness posters covering a variety of topics.  Print and display arou
 
 ## Social engineering
 
-**[Have I Been Pwned](https://haveibeenpwned.com/)** -  -  - Troy Hunt - Tools
+**[Have I Been Pwned](https://haveibeenpwned.com/)** - Troy Hunt - Tools
 
 Check if you have an account that has been compromised in a data breach.  Individual and domain notifications available.  An API available is available for developers.
 
@@ -817,35 +870,35 @@ Check if you have an account that has been compromised in a data breach.  Indivi
 
 ## Tools
 
-**[CloudFlare](https://www.cloudflare.com)** - Tools
+**[CloudFlare](https://www.cloudflare.com)**undefined - Tools
 
 Cloudflare speeds up and protects millions of websites, APIs, SaaS services, and other properties connected to the Internet.  Free and premium plans available.
 
  - Free basic plan with premium options available - Registration required
 
 
-**[Cyber Security Planning Guide](https://www.fcc.gov/cyberplanner)** -  -  - Federal Communications Commission - Guides
+**[Cyber Security Planning Guide](https://www.fcc.gov/cyberplanner)** - Federal Communications Commission - Guides
 
 The tool is designed for businesses that lack the resources to hire dedicated staff to protect their business, information and customers from cyber threats. Serves as a good starting point for organizations looking 
 
  - Free - No email or registration required
 
 
-**[Cypherix](http://www.cypherix.com/)** - Tools
+**[Cypherix](http://www.cypherix.com/)**undefined - Tools
 
 This is encryption software that helps protect sensitive data on any Windows PC, Desktop, Laptop, Hard Disk or Removable Drive
 
  - Free - No email or registration required
 
 
-**[Free Ransomware Decryptors](https://noransom.kaspersky.com/)** -  - Kaspersky Lab - Tools
+**[Free Ransomware Decryptors](https://noransom.kaspersky.com/)** - Kaspersky Lab - Tools
 
 Find the latest decryptors, ransomware removal tools, and information on ransomware protection
 
  - Free  - No email or registration required
 
 
-**[Let's Encrypt](https://letsencrypt.org/)** -  - Internet Security Research Group - Tools
+**[Let's Encrypt](https://letsencrypt.org/)** - Internet Security Research Group - Tools
 
 Let’s Encrypt is a free, automated, and open certificate authority brought to you by the non-profit Internet Security Research Group (ISRG). In English, this means you get https, instead of http, on your website for free.
 
@@ -859,38 +912,52 @@ Microsoft partners with several vendors to give them advanced access to new secu
  - Free  - No email or registration required
 
 
-**[Microsoft Enhanced Mitigation Experience Toolkit](https://microsoft.com/emet/)** -  - Microsoft - Tools
+**[Microsoft Enhanced Mitigation Experience Toolkit](https://microsoft.com/emet/)** - Microsoft - Tools
 
 Help mitigate zero-day viruses that antivirus can't stop by implementing several memory protection techniques. While one of the best tools made by Microsoft. This product has an End of Life of July 2018.
 
  - Free  - No email or registration required
 
 
-**[SSL/TLS Browser Test](https://www.ssllabs.com/ssltest/)** -  - SSL Labs - Tools
+**[SSL/TLS Browser Test](https://www.ssllabs.com/ssltest/)** - SSL Labs - Tools
 
 The SSL client test shows the SSL/TLS capabilities of your browser.
 
  - Free - No email or registration required
 
 
-**[SSL/TLS Server Test](https://www.ssllabs.com/ssltest/)** -  - SSL Labs - Tools
+**[SSL/TLS Server Test](https://www.ssllabs.com/ssltest/)** - SSL Labs - Tools
 
 This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet.
 
  - Free - No email or registration required
 
 
-**[VeraCrypt](https://veracrypt.codeplex.com/)** -  - IDRIX - Tools
+**[Threat Dragon](https://threatdragon.org/)** - Open Web Application Security Project - Tools
+
+Threat Dragon is a free, open-source threat modeling tool from OWASP. It can be used as a standalone desktop app for Windows and MacOS (Linux coming soon) or as a web application.
+
+ - Free - No email or registration required for desktop app. Login with Github for online version
+
+
+**[VeraCrypt](https://veracrypt.codeplex.com/)** - IDRIX - Tools
 
 Veracrypt is the replacement to Truecrypt. An encryption tool to encrypt your hard drive.
 
  - Free - No email or registration required
 
 
+**[zxcvbn](https://github.com/dropbox/zxcvbn)** - Dropbox - Tools
+
+Implemented in over a dozen programming languages, zxcvbn is a password strength estimator inspired by password crackers. Through pattern matching and conservative estimation, it recognizes and weighs 30k common passwords, common names and surnames according to US census data, popular English words from Wikipedia and US television and movies, and other common patterns like dates, repeats (aaa), sequences (abcd), keyboard patterns (qwertyuiop), and l33t speak.
+
+ - Free - No email or registration required for desktop app. Login with Github for online version.
+
+
 
 ## Two factor authentication
 
-**[TurnOn2FA](https://www.turnon2fa.com/)** - Guides
+**[TurnOn2FA](https://www.turnon2fa.com/)**undefined - Guides
 
 This is a website that provides explanations and brings awareness to the benefits of two factor authentication. Two factor authentication prevents a stolen password from resulting in an account breach.
 
@@ -907,21 +974,21 @@ Duo, an industry leader in two factor authentication, has a great video which qu
 
 ## Web security
 
-**[Burp Suite](https://portswigger.net/burp/freedownload)** -  - Portswigger - Tools
+**[Burp Suite](https://portswigger.net/burp/freedownload)** - Portswigger - Tools
 
 Web application security scanner
 
  - Free - Premium version offers additional features - No email or registration required
 
 
-**[CloudFlare](https://www.cloudflare.com)** - Tools
+**[CloudFlare](https://www.cloudflare.com)**undefined - Tools
 
 Cloudflare speeds up and protects millions of websites, APIs, SaaS services, and other properties connected to the Internet.  Free and premium plans available.
 
  - Free basic plan with premium options available - Registration required
 
 
-**[Let's Encrypt](https://letsencrypt.org/)** -  -  - Internet Security Research Group - Tools
+**[Let's Encrypt](https://letsencrypt.org/)** - Internet Security Research Group - Tools
 
 Let’s Encrypt is a free, automated, and open certificate authority brought to you by the non-profit Internet Security Research Group (ISRG). In English, this means you get https, instead of http, on your website for free.
 
@@ -935,21 +1002,21 @@ A basic guide for securing an Ubuntu server.
  - Free - No email or registration required
 
 
-**[Patrol Server](http://patrolserver.com/)** -  - Patrol Server - Tools
+**[Patrol Server](http://patrolserver.com/)** - Patrol Server - Tools
 
 Detect outdated software on your website real-time and notify you with new software updates.
 
  - Free monitoring for one, noncommercial website. Premium plans available. - Registration required
 
 
-**[SSL/TLS Browser Test](https://www.ssllabs.com/ssltest/)** -  -  - SSL Labs - Tools
+**[SSL/TLS Browser Test](https://www.ssllabs.com/ssltest/)** - SSL Labs - Tools
 
 The SSL client test shows the SSL/TLS capabilities of your browser.
 
  - Free - No email or registration required
 
 
-**[SSL/TLS Server Test](https://www.ssllabs.com/ssltest/)** -  -  - SSL Labs - Tools
+**[SSL/TLS Server Test](https://www.ssllabs.com/ssltest/)** - SSL Labs - Tools
 
 This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet.
 
@@ -963,19 +1030,15 @@ List of websites and services which support two-factor authentication. Two-facto
  - Free - No email or registration required
 
 
-**[uBlock Origin](https://github.com/gorhill/uBlock#installation)** -  -  -  -  - Raymond Hill - Tools
+**[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Raymond Hill - Tools
 
 Wide-spectrum web-filter - generally used as an effective ad blocker.  The link is the author's GitHub repository.  However, it also contains links to plugins for popular browsers.
 
  - Free - No email or registration required
 
 
-**[w3af](http://w3af.org/)** -  - Portswigger - Tools
+**[w3af](http://w3af.org/)** - Portswigger - Tools
 
 Web Application Attack and Audit Framework. It is a framework to help you secure your web applications by finding and exploiting all web application vulnerabilities.
 
  - Free - No email or registration required
-
- ## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) - CC0 1.0 Universal
