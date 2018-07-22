@@ -42,14 +42,14 @@ Want to contribute? Check the [contribution guidelines](CONTRIBUTING.md).
 
 ## Ad blocking
 
-**[Ad Guard](https://adguard.com/en/adguard-dns/overview.html)**undefined - Tools
+**[Ad Guard](https://adguard.com/en/adguard-dns/overview.html)** - Tools
 
 Block ads on your entire home network, cell phones included, by configuring one setting in your router.  Specifically, by updating the custom DNS settings, which takes less than 5 minutes.
 
  - Free ad blocking - Premium blocking of adult content - No email or registration required
 
 
-**[MPVS Host File](http://winhelp2002.mvps.org/hosts.htm)**undefined - Tools
+**[MPVS Host File](http://winhelp2002.mvps.org/hosts.htm)** - Tools
 
 Block ads on your PC simply by replacing your HOST file.
 
@@ -66,14 +66,14 @@ Wide-spectrum web-filter - generally used as an effective ad blocker.  The link 
 
 ## Antivirus
 
-**[AVG AntiVirus](http://www.avg.com/us-en/free-antivirus-download)**undefined - Tools
+**[AVG AntiVirus](http://www.avg.com/us-en/free-antivirus-download)** - Tools
 
 This is antivirus software which includes real-time security updates, scans for malware and performance issues, and more
 
  - Free - No email or registration required
 
 
-**[Avast](https://www.avast.com/en-us/free-antivirus-download)**undefined - Tools
+**[Avast](https://www.avast.com/en-us/free-antivirus-download)** - Tools
 
 This is antivirus software which scans for performance issues and analyzes unknown files in real time, among other things.
 
@@ -189,7 +189,7 @@ This is firewall software that manages and monitors all incoming and outgoing tr
 
 ## Encryption
 
-**[Cypherix](http://www.cypherix.com/)**undefined - Tools
+**[Cypherix](http://www.cypherix.com/)** - Tools
 
 This is encryption software that helps protect sensitive data on any Windows PC, Desktop, Laptop, Hard Disk or Removable Drive
 
@@ -352,7 +352,7 @@ Nearly 500 pages of security and privacy controls, as well as a framework for id
  - Free - No email or registration required
 
 
-**[TurnOn2FA](https://www.turnon2fa.com/)**undefined - Guides
+**[TurnOn2FA](https://www.turnon2fa.com/)** - Guides
 
 This is a website that provides explanations and brings awareness to the benefits of two factor authentication. Two factor authentication prevents a stolen password from resulting in an account breach.
 
@@ -362,21 +362,21 @@ This is a website that provides explanations and brings awareness to the benefit
 
 ## Home security
 
-**[AVG AntiVirus](http://www.avg.com/us-en/free-antivirus-download)**undefined - Tools
+**[AVG AntiVirus](http://www.avg.com/us-en/free-antivirus-download)** - Tools
 
 This is antivirus software which includes real-time security updates, scans for malware and performance issues, and more
 
  - Free - No email or registration required
 
 
-**[Ad Guard](https://adguard.com/en/adguard-dns/overview.html)**undefined - Tools
+**[Ad Guard](https://adguard.com/en/adguard-dns/overview.html)** - Tools
 
 Block ads on your entire home network, cell phones included, by configuring one setting in your router.  Specifically, by updating the custom DNS settings, which takes less than 5 minutes.
 
  - Free ad blocking - Premium blocking of adult content - No email or registration required
 
 
-**[Avast](https://www.avast.com/en-us/free-antivirus-download)**undefined - Tools
+**[Avast](https://www.avast.com/en-us/free-antivirus-download)** - Tools
 
 This is antivirus software which scans for performance issues and analyzes unknown files in real time, among other things.
 
@@ -390,7 +390,7 @@ This is a website that has aggregated various decrypting tools
  - Free - No email or registration required
 
 
-**[Dashlane](https://www.dashlane.com/)**undefined - Tools
+**[Dashlane](https://www.dashlane.com/)** - Tools
 
 This is a website that manages passwords for the user
 
@@ -418,14 +418,14 @@ Most users no longer need Java installed on their computer.  Java creates an unn
  - Free - No email or registration required
 
 
-**[LastPass](https://www.lastpass.com/)**undefined - Tools
+**[LastPass](https://www.lastpass.com/)** - Tools
 
 A suite of apps and browser extensions to allow for easy password management.
 
  - Free with premium features available - No email or registration required
 
 
-**[MPVS Host File](http://winhelp2002.mvps.org/hosts.htm)**undefined - Tools
+**[MPVS Host File](http://winhelp2002.mvps.org/hosts.htm)** - Tools
 
 Block ads on your PC simply by replacing your HOST file.
 
@@ -439,7 +439,7 @@ McAfee has compiled a list of tools useful to users, such as anti-malware, asses
  - Free - No email or registration required
 
 
-**[No More Ransom!](https://www.nomoreransom.org/decryption-tools.html)**undefined - Tools
+**[No More Ransom!](https://www.nomoreransom.org/decryption-tools.html)** - Tools
 
 This is a website that has aggregated various decrypting software from a variety of vendors.
 
@@ -646,14 +646,14 @@ Bruce Schneier is an internationally renowned security technologist, called a "s
 
 ## Passwords
 
-**[Dashlane](https://www.dashlane.com/)**undefined - Tools
+**[Dashlane](https://www.dashlane.com/)** - Tools
 
 This is a website that manages passwords for the user
 
  - Free with premium features available - No email or registration required
 
 
-**[LastPass](https://www.lastpass.com/)**undefined - Tools
+**[LastPass](https://www.lastpass.com/)** - Tools
 
 A suite of apps and browser extensions to allow for easy password management.
 
@@ -698,14 +698,14 @@ A list of tools included in Kali Linux maintained by Offensive Security.
  - Free - No email or registration required
 
 
-**[OpenVAS Vulnerability Scanner](http://www.openvas.org/)**undefined - Tools
+**[OpenVAS Vulnerability Scanner](http://www.openvas.org/)** - Tools
 
 OpenVAS is an open source network vulnerability scanner. Similar to products like Nessus or Nexpose, but free.
 
  - Free - No email or registration required
 
 
-**[Sectools.org Top 125 Security Tools](http://sectools.org/)**undefined - Guides
+**[Sectools.org Top 125 Security Tools](http://sectools.org/)** - Guides
 
 Sectools.org has an amazing collection of some of the most popular security tools with a ranking of popularity. Wireshark, JTR, Kismet, if it's popular, it's probably listed here.
 
@@ -722,7 +722,7 @@ Web Application Attack and Audit Framework. It is a framework to help you secure
 
 ## Phishing
 
-**[Go Phish](https://getgophish.com/)**undefined - Tools
+**[Go Phish](https://getgophish.com/)** - Tools
 
 An open source phishing applications. Use it to test your company's resilience to phishing attacks.
 
@@ -746,7 +746,7 @@ Free service to create honey pots in email, on your network, and in more places.
  - Free - Registration required.
 
 
-**[Cypherix](http://www.cypherix.com/)**undefined - Tools
+**[Cypherix](http://www.cypherix.com/)** - Tools
 
 This is encryption software that helps protect sensitive data on any Windows PC, Desktop, Laptop, Hard Disk or Removable Drive
 
@@ -760,14 +760,14 @@ Open source application that blocks most, if not all, of Windows 10 tracking fun
  - Free - No email or registration required.
 
 
-**[DoNotSpy10](http://pxc-coding.com/portfolio/donotspy10/)**undefined - Tools
+**[DoNotSpy10](http://pxc-coding.com/portfolio/donotspy10/)** - Tools
 
 Closed source application from an unknown developer that does an effecive job of blocking Windows 10 tracking. Because it is closed source and the author is unknown, we recommend proceeding with caution.
 
  - Free - No email or registration required.
 
 
-**[Duckduckgo Search Engine](https://duckduckgo.com/)**undefined - Tools
+**[Duckduckgo Search Engine](https://duckduckgo.com/)** - Tools
 
 A search engine that doesn't track you.
 
@@ -816,7 +816,7 @@ Created by the Electronic Frontier Foundation, this plugin tries to force websit
  - Free - No email or registration required
 
 
-**[NoScript Firefox Plugin](https://addons.mozilla.org/en-US/firefox/addon/noscript/)**undefined - Tools
+**[NoScript Firefox Plugin](https://addons.mozilla.org/en-US/firefox/addon/noscript/)** - Tools
 
 Block scripts on websites by default. This does a lot to protect against web-based viruses and improves privacy.
 
@@ -903,7 +903,7 @@ Help mitigate zero-day viruses that antivirus can't stop by implementing several
  - Free  - No email or registration required
 
 
-**[No More Ransom!](https://www.nomoreransom.org/decryption-tools.html)**undefined - Tools
+**[No More Ransom!](https://www.nomoreransom.org/decryption-tools.html)** - Tools
 
 This is a website that has aggregated various decrypting software from a variety of vendors.
 
@@ -927,7 +927,7 @@ Many viruses can be contracted through surfing the web with outdated plugins. Ch
 
 ## Security awareness
 
-**[Go Phish](https://getgophish.com/)**undefined - Tools
+**[Go Phish](https://getgophish.com/)** - Tools
 
 An open source phishing applications. Use it to test your company's resilience to phishing attacks.
 
@@ -961,7 +961,7 @@ Check if you have an account that has been compromised in a data breach.  Indivi
 
 ## Tools
 
-**[CloudFlare](https://www.cloudflare.com)**undefined - Tools
+**[CloudFlare](https://www.cloudflare.com)** - Tools
 
 Cloudflare speeds up and protects millions of websites, APIs, SaaS services, and other properties connected to the Internet.  Free and premium plans available.
 
@@ -975,7 +975,7 @@ The tool is designed for businesses that lack the resources to hire dedicated st
  - Free - No email or registration required
 
 
-**[Cypherix](http://www.cypherix.com/)**undefined - Tools
+**[Cypherix](http://www.cypherix.com/)** - Tools
 
 This is encryption software that helps protect sensitive data on any Windows PC, Desktop, Laptop, Hard Disk or Removable Drive
 
@@ -1048,7 +1048,7 @@ Implemented in over a dozen programming languages, zxcvbn is a password strength
 
 ## Two factor authentication
 
-**[TurnOn2FA](https://www.turnon2fa.com/)**undefined - Guides
+**[TurnOn2FA](https://www.turnon2fa.com/)** - Guides
 
 This is a website that provides explanations and brings awareness to the benefits of two factor authentication. Two factor authentication prevents a stolen password from resulting in an account breach.
 
@@ -1072,7 +1072,7 @@ Web application security scanner
  - Free - Premium version offers additional features - No email or registration required
 
 
-**[CloudFlare](https://www.cloudflare.com)**undefined - Tools
+**[CloudFlare](https://www.cloudflare.com)** - Tools
 
 Cloudflare speeds up and protects millions of websites, APIs, SaaS services, and other properties connected to the Internet.  Free and premium plans available.
 
