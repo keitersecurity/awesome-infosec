@@ -80,6 +80,13 @@ This is antivirus software which scans for performance issues and analyzes unkno
  - Free - No email or registration required
 
 
+**[Sophos Home](https://home.sophos.com/)** - Sophos - Tools
+
+Protect your home from malware, viruses, ransomware, and inappropriate and malicious websites. The Home version uses the same technology offered in the commercial version of the same product. Features remote administration so you can manage security settings.
+
+ - Free - Registration required.
+
+
 
 ## Audit
 
@@ -256,6 +263,20 @@ Sometimes known as the SANS 20, this highly respected guide provides 20 cyber de
 The tool is designed for businesses that lack the resources to hire dedicated staff to protect their business, information and customers from cyber threats. Serves as a good starting point for organizations looking 
 
  - Free - No email or registration required
+
+
+**[GDPR Compliance Checklist](https://belitsoft.com/gdpr-compliance-checklist)** - Belitsoft - Tools
+
+A very handy GDPR compliance checklist
+
+ - Free - No email or registration required.
+
+
+**[GDPR Guide](https://www.iubenda.com/en/help/5428-gdpr-guide)** - iubenda - Tools
+
+A pretty comprehensive guide to GDPR brought to you by iubenda.
+
+ - Free - No email or registration required.
 
 
 **[Information Security Policy Templates](https://www.sans.org/security-resources/policies/)** - SANS Institute - Guides
@@ -437,6 +458,20 @@ This is a ransomware decryptor, which can be used if your computer is affected w
 Many viruses can be contracted through surfing the web with outdated plugins. Check your Firefox plugins for missing updates free.
 
  - Free - No email or registration required
+
+
+**[Quad 9 DNS](https://quad9.net)** - Quad9 DNS - Tools
+
+Quad9 is a free security solution that uses DNS to protect your entire network, or just your computer, against the most common cyber threats. It improves your system's performance, plus, it preserves and protects your privacy.  Just change a few settings on your router or computer.  There is no software to install.
+
+ - Free - No email or registration required.
+
+
+**[Sophos Home](https://home.sophos.com/)** - Sophos - Tools
+
+Protect your home from malware, viruses, ransomware, and inappropriate and malicious websites. The Home version uses the same technology offered in the commercial version of the same product. Features remote administration so you can manage security settings.
+
+ - Free - Registration required.
 
 
 **[Sophos UTM Home Edition](https://www.sophos.com/en-us/products/free-tools/sophos-utm-home-edition.aspx)** - Sophos - Tools
@@ -704,11 +739,32 @@ Check if you have an account that has been compromised in a data breach.  Indivi
 
 ## Privacy
 
+**[Canary Tokens](https://www.stationx.net/canary/)** - Station X - Tools
+
+Free service to create honey pots in email, on your network, and in more places. Get notified when someone accesses these items. Example: create a fake passwords.docx file, something a hacker would be likely to open, and get notified when that document is accessed.
+
+ - Free - Registration required.
+
+
 **[Cypherix](http://www.cypherix.com/)**undefined - Tools
 
 This is encryption software that helps protect sensitive data on any Windows PC, Desktop, Laptop, Hard Disk or Removable Drive
 
  - Free - No email or registration required
+
+
+**[Disable Windows 10 Tracking](https://github.com/10se1ucgo/DisableWinTracking)** - 10se1ucgo on Github - Tools
+
+Open source application that blocks most, if not all, of Windows 10 tracking functions that reports data back to Microsoft.  Written in Python, this is a very popular repository on Github. This is our favorite of the available options.
+
+ - Free - No email or registration required.
+
+
+**[DoNotSpy10](http://pxc-coding.com/portfolio/donotspy10/)**undefined - Tools
+
+Closed source application from an unknown developer that does an effecive job of blocking Windows 10 tracking. Because it is closed source and the author is unknown, we recommend proceeding with caution.
+
+ - Free - No email or registration required.
 
 
 **[Duckduckgo Search Engine](https://duckduckgo.com/)**undefined - Tools
@@ -732,6 +788,20 @@ Firefox is an active advocate of online privacy. They don't make money from adve
  - Free - No email or registration required
 
 
+**[GDPR Compliance Checklist](https://belitsoft.com/gdpr-compliance-checklist)** - Belitsoft - Tools
+
+A very handy GDPR compliance checklist
+
+ - Free - No email or registration required.
+
+
+**[GDPR Guide](https://www.iubenda.com/en/help/5428-gdpr-guide)** - iubenda - Tools
+
+A pretty comprehensive guide to GDPR brought to you by iubenda.
+
+ - Free - No email or registration required.
+
+
 **[Ghostery Firefox Plugin](https://addons.mozilla.org/en-US/firefox/addon/ghostery/)** - Ghostery - Tools
 
 Block all types of trackers that are watching what you do online.
@@ -753,11 +823,32 @@ Block scripts on websites by default. This does a lot to protect against web-bas
  - Free - No email or registration required
 
 
+**[O&O ShutUp10](https://www.oo-software.com/en/shutup10)** - O&O Software - Tools
+
+Closed source Windows 10 privacy tool from an established German antivirus company. Allows you to easily choose which data is sent to Microsoft. The program does not have to be installed.
+
+ - Free - No email or registration required.
+
+
+**[O&O ShutUp10](https://www.ashampoo.com/en/usd/pin/1004/security-software/antispy-for-windows-10)** - O&O Software - Tools
+
+Closed source Windows 10 privacy tool from an established software company. Allows you to easily choose which data is sent to Microsoft.
+
+ - Free - No email or registration required.
+
+
 **[Privacytools.io](https://privacytoolsio.github.io/privacytools.io/)** - privacytools.io - Guides
 
 Privacytools.io is one of, if not the best resource to protect your online privacy. They discuss many topics including which VPN to use, what email respects your privacy, what cloud providers are safest, etc.
 
  - Free - No email or registration required
+
+
+**[Quad 9 DNS](https://quad9.net)** - Quad9 DNS - Tools
+
+Quad9 is a free security solution that uses DNS to protect your entire network, or just your computer, against the most common cyber threats. It improves your system's performance, plus, it preserves and protects your privacy.  Just change a few settings on your router or computer.  There is no software to install.
+
+ - Free - No email or registration required.
 
 
 **[That One Privacy Site](https://thatoneprivacysite.net/simple-vpn-comparison-chart/)** - That One Privacy Guy - Guides
@@ -850,7 +941,7 @@ Free monthly security awareness training newsletter that security professionals 
  - Free - No email or registration required
 
 
-**[Security Awareness Posters](hhttps://securingthehuman.sans.org/resources/posters)** - SANS Institute - Guides
+**[Security Awareness Posters](https://securingthehuman.sans.org/resources/posters)** - SANS Institute - Guides
 
 Security awareness posters covering a variety of topics.  Print and display around your office to raise the security consciousness of your organization.
 
